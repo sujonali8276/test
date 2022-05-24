@@ -1,6 +1,3 @@
 Hi there 
-<<<<<<< HEAD
 This is new addition
-=======
 this is addition no 2
->>>>>>> 8dcca2d (new commit for addition 2)
